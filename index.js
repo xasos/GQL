@@ -28,12 +28,6 @@ function getPrompt() {
   });
 }
 
-//process.stdout.write("user> ");
-//process.stdin.setEncoding('utf8');
-//process.stdin.once('data', function(val){
-//
-//});
-
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
@@ -46,10 +40,3 @@ rl.on('line', function(line){
   console.log(line);
   process.stdout.write("GQL> ");
 });
-
-//rl.question('GQL> ', (answer) => {
-//  // TODO: Log the answer in a database
-//  console.log('Thank you for your valuable feedback:', answer);
-//
-//  rl.close();
-//});

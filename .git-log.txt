@@ -1,9 +1,0 @@
-commit 2c87225985d88f4c8e5e7f8d60c0b5d440b016ed
-Author: Niraj Pant <nirajpant7@gmail.com>
-Date:   Tue Aug 9 15:15:36 2016 -0700
-
-    Initial commit
-
-A	.gitignore
-A	LICENSE
-A	README.md
