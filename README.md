@@ -23,7 +23,7 @@ $ gql
 
 ## Example queries
 To find all commits between 08-17-2016 and 08-21-2016, run
-`SELECT * FROM \`commits\` ORDER BY date LIMIT 10`
+`SELECT * FROM `commits` ORDER BY date LIMIT 10`
 
 ## Dependencies
  - [parse-git](https://github.com/blittle/parse-git.git), used to parse Git log files
