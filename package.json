@@ -1,0 +1,24 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "description": "(Git Query Language) - SQL Git Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xasos/GQL.git"
+  },
+  "author": "Niraj Pant <npant3@illinois.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xasos/GQL/issues"
+  },
+  "homepage": "https://github.com/xasos/GQL#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "infinite-loop": "^0.2.2",
+    "prompt": "^1.0.0"
+  }
+}
