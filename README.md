@@ -1,4 +1,4 @@
-# GQL
+# GQL [WIP]
 *Git Query Language* (GQL) [pronounced “Jee-quil”] is an SQL interface to Git, written in Node.js. It was inspired by this [tweet](https://twitter.com/clayallsopp/status/695377832369721344). The Git commit log file is parsed and read into an SQL table (called `commits`). A REPL, similar to SQL's, is then made available where it tokenizes and parses the SQL commands.
 
 ## Install 
